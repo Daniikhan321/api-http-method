@@ -13,6 +13,7 @@ export default function DeletePostPage() {
       console.log("Deleted Successfully:", response.data);
     } catch (error) {
       console.error("Error deleting post:", error);
+      
     }
   };
 
