@@ -18,7 +18,7 @@ export default function DeletePostPage() {
   };
 
   return (
-    <div>
+    <div> 
       <h1>Delete Post</h1>
 
       <button
