@@ -21,7 +21,7 @@ export default function Home() {
 
             <li>
               <Link href="/post">POST</Link>
-            </li>
+            </li>s
 
             <li>
               <Link href="/put">PUT</Link>

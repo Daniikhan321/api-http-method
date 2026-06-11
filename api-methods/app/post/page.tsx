@@ -55,7 +55,7 @@ export default function CreatePostPage() {
             value={content}
             onChange={(e) => setContent(e.target.value)}
             className="w-full border p-3 rounded-lg"
-          />
+          /> 
 
           <button
             type="submit"
